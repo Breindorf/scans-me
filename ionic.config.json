@@ -1,0 +1,8 @@
+{
+  "name": "Scans Me",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "82235291"
+}
